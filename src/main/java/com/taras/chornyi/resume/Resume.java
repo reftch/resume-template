@@ -35,7 +35,7 @@ public class Resume {
                 .addPageNumber("1")
                 .addHeader("RESUME")
                 .addTitle("Taras Chornyi", "taras.chornyi@gmail.com", "taras.chornyi","src/main/resources/images/TC.jpg", links)
-                .addChapter("Objective", "Seeking a Lead position in interesting project with Typescript technologies.", 0)
+                .addChapter("Objective", "Seeking an interesting projects with Typescript/Node.js technologies.", 0)
                 .addChapter("Professional Summary", SUMMARY, 20)
                 .addChapter("Employment History", 110)
 
