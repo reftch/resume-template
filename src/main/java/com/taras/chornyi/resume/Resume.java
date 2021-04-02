@@ -175,7 +175,7 @@ public class Resume {
                 .addChapter("Total Experience", "23 years", 30)
                 .addChapter("Programming Languages", "Typescript, JavaScript, Java, PHP, CSS, HTML, C, C++, Assembler.", 30)
                 .addChapter("Operating Systems", "MacOS X, Linux, FreeBSD, QNX, MS-DOS.", 40)
-                .addChapter("Software Technologies", "VueJS, SvelteJS, Angular, NestJS, Rollup, Webpack, Podman, Docker, Minikube, J2EE, J2EE Design Patterns, Spring Boot, Spring Cloud, " +
+                .addChapter("Software Technologies", "React, VueJS, SvelteJS, Angular, NestJS, Rollup, Webpack, Podman, Docker, Minikube, J2EE, J2EE Design Patterns, Spring Boot, Spring Cloud, " +
                                 "Spring Microservice, Cloudera Hadoop, Elastisearch, Solr, BPEL ODE, BPEL ActiveVOS, Ajax, Angular, " +
                                 "Ember, ExtJS, JQuery, CSS, " +
                                 "Adobe Flex, JSP and Servlets, maven, ant, Springframework MVC and WebServices, Struts, JSON, XML, XSD, JMS, " +
