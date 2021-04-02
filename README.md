@@ -4,7 +4,7 @@ Resume in PDF application is a Java template application, based on the Lowagie i
 
 #### Résumé
 
-You can see [PDF](https://github.com/taras-chornyi/resume-template/blob/master/Taras%20Chornyi%2C%20CV.pdf)
+You can see [PDF](https://github.com/reftch/resume-template/blob/main/Taras%20Chornyi%2C%20CV.pdf)
 
 ## How to use
 
