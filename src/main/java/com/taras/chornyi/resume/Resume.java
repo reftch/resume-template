@@ -44,20 +44,20 @@ public class Resume {
                         "Böblingen, Germany", 0)
 
                 .addProjectExperience("12/2020 - present now",
-                        "Frameworkless WUI Library",
+                        "Frameworkless WCL Library",
                         "Senior Full Stack Developer",
                                 "Based on the custom HTML elements Web User Interface (WUI) library is a development tool, which allows " +
                                 "to decrease a development time and application complexity. This library offers all modern framework's feature, " +
                                 "like reconciliation of the Virtual DOM, text and attributes interpolations, " +
                                 "components composition, conditional rendering, state management and lazy loading " +
                                 "routing without any external dependencies.",
-                        "Typescript, NestJS, RollupJS, Sirv, Execa, Jest, Cypress, RESTful, GraphQL.", 10)
+                        "Typescript, Lit, Nx, Jest, Cypress.", 10)
 
-                .addProjectExperience("12/2019 - 12/2020", "DocBridge© - Pilot User Interface",
+                .addProjectExperience("12/2019 - present now", "DocBridge© - Pilot User Interface",
                         "Senior Full Stack Developer",
                         "For managing and monitoring the processing steps, DocBridge Pilot provides a browser interface, " +
                                 "DocBridge Pilot - Web UI. Development backend prototype based on NestJS, TypeORM and GraphQL.",
-                        "VueJS 2-3, NestJS, Vite, Vue CLI, Composition API, Vuex, Vue Routing, Typescript, " +
+                        "VueJS 2-3, Lit, Nx, NestJS, Vite, Vue CLI, Composition API, Vuex, Vue Routing, Typescript, " +
                                 "Ngnix, Jest, Cypress, RESTFul, GraphQL, Docker/Podman.",
                         40)
 
@@ -175,7 +175,7 @@ public class Resume {
                 .addChapter("Total Experience", "23 years", 30)
                 .addChapter("Programming Languages", "Typescript, JavaScript, Java, PHP, CSS, HTML, C, C++, Assembler.", 30)
                 .addChapter("Operating Systems", "MacOS X, Linux, FreeBSD, QNX, MS-DOS.", 40)
-                .addChapter("Software Technologies", "React, VueJS, SvelteJS, Angular, NestJS, Rollup, Webpack, Podman, Docker, Minikube, J2EE, J2EE Design Patterns, Spring Boot, Spring Cloud, " +
+                .addChapter("Software Technologies", "Lit, Nx, React, VueJS, SvelteJS, Angular, NestJS, Rollup, Webpack, Podman, Docker, Minikube, J2EE, J2EE Design Patterns, Spring Boot, Spring Cloud, " +
                                 "Spring Microservice, Cloudera Hadoop, Elastisearch, Solr, BPEL ODE, BPEL ActiveVOS, Ajax, Angular, " +
                                 "Ember, ExtJS, JQuery, CSS, " +
                                 "Adobe Flex, JSP and Servlets, maven, ant, Springframework MVC and WebServices, Struts, JSON, XML, XSD, JMS, " +
