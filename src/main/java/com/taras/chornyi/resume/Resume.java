@@ -59,7 +59,7 @@ public class Resume {
                                 "DocBridge Pilot - Web UI. Development backend prototype based on NestJS, TypeORM and GraphQL.",
                         "VueJS 2-3, Lit, Nx, NestJS, Vite, Vue CLI, Composition API, Vuex, Vue Routing, Typescript, " +
                                 "Ngnix, Jest, Cypress, RESTFul, GraphQL, Docker/Podman.",
-                        40)
+                        30)
 
                 .addProjectExperience("12/2018 - 12/2019", "DocBridge© - Pilot Project",
                         "Senior Java Developer",
@@ -68,7 +68,7 @@ public class Resume {
                                 "code maintenance, encryption vault subsystem." ,
                         "Java 8-11, Spring Framework Ecosystem " +
                                 "RESTful API, Maven, Apache Tomcat, H2, MSSQL, Oracle, MariaDB., Docker/Podman.",
-                        40)
+                        50)
 
                 .addNewPage()
                 .addPageNumber("2")
@@ -143,7 +143,7 @@ public class Resume {
                                 "manually typed in by a user or triggered by another application or process.",
                         "Spring MVC, Servlets, ExtJS, Ajax, JSON, HTML, CSS, JavaScript, Maven, JDBC, MS SQL, Tomcat, " +
                                 "Jetty, J2EE Design Patterns.",
-                        30)
+                        25)
                 .addExperience("07/2005 - 03/2008:",
                         "Java Developer",
                         "Genesys Telecommunications Laboratories",
